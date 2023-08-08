@@ -1,0 +1,43 @@
+.container{
+    text-align: center;
+    margin-top: 300px;
+    
+}
+.container{
+    
+        max-width: 400px;
+        margin: 30px auto;
+        padding: 20px;
+        background-image:linear-gradient(rgb(142, 27, 121),rgb(247, 247, 20));
+        box-shadow: 0 10px 10px rgba(0, 0, 0, 0.1);
+        border-radius: 8px;
+        margin-top: 180px;
+        margin-left: 500px;
+        border-color:10px solid black;
+      }
+      #btn{
+        background-color: azure;
+      }
+body{
+    background-image: url(fix.jpg);
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-size: cover;
+    background-color: purple;
+    
+}
+  
+.container h2{
+    font-size: 40px;
+
+}
+.container p{
+    font-size:20px ;
+}
+body{
+    border: 50px;
+    border-radius: 25px;
+}
+#btn:hover{
+    background-color: blueviolet;
+}
